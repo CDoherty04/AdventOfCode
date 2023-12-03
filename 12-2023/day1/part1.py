@@ -11,7 +11,7 @@ Output:
     12+38+15+77 = 142
 """
 
-FILE = "12-2023\data.txt"
+FILE = "12-2023\day1\data.txt"
 
 # Get a list from the files lines
 with open(FILE) as file:
