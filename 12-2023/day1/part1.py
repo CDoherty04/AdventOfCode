@@ -1,5 +1,5 @@
 """
-Advent of Code Day 1
+Advent of Code Day 1, Part 1
 
 Input:
     1abc2
