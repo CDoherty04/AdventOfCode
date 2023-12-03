@@ -11,7 +11,7 @@ Output:
     12+38+15+77 = 142
 """
 
-FILE = "data.txt"
+FILE = "12-2023\data.txt"
 
 # Get a list from the files lines
 with open(FILE) as file:
@@ -37,5 +37,4 @@ for line in lines:
     nums.append(int(first_number+last_number))
 
 # Results
-print(nums)
 print(sum(nums))
